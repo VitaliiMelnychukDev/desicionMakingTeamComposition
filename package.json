@@ -1,0 +1,24 @@
+{
+  "name": "desicionmakingteamcomposition",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "start": "ts-node index.ts",
+    "start:dev": "nodemon index.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VitaliiMelnychukDev/desicionMakingTeamComposition.git"
+  },
+  "author": "Vitalii Melnychuk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VitaliiMelnychukDev/desicionMakingTeamComposition/issues"
+  },
+  "homepage": "https://github.com/VitaliiMelnychukDev/desicionMakingTeamComposition#readme",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "ts-node": "^10.9.1"
+  }
+}
